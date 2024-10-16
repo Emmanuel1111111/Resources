@@ -1,0 +1,2 @@
+# Resources
+Angular resources
